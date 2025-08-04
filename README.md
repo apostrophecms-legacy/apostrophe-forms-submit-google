@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # Apostrophe Forms Google Sheets Submission
 
 For use with ApostropheCMS 2.x. Requires Node v8 and `apostrophe-forms v1.x`.
